@@ -1,0 +1,11 @@
+.in-stock {
+    background-color: green;
+}
+
+.in-stock-wait {
+    background-color: yellow;
+}
+
+.out-stock {
+    background-color: red;
+}
